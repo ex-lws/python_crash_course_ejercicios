@@ -1,0 +1,3 @@
+Modificación mediante Python y el modo escritura de archivos.
+Segunda modificación mediante Python.
+Tercera modificación mediante Python.

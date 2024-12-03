@@ -1,0 +1,8 @@
+Lo que he aprendido de Python hasta ahora son los conceptos básicos para poder desempeñarme como programador principiante...
+Tal vez el siguiente paso sea desarrollar algo con tkinter o bien con django. 
+Mi objetivo es poder realizar proyectos que se puedan incluir en mi CV, cosa fundamental para poder conseguir un empleo.
+
+Algunas cosas que he ido aprendiendo en este curso tiene que ver con la programación orientada a objetos, cosa que jamás pensé
+en poder comprender, pero que me alegro haber hecho.
+
+

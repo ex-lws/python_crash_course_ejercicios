@@ -1,0 +1,3 @@
+Este texto no será reemplazado por Python.
+Esta linea viene de Python
+	Esta otra linea tambien proviene de Python
